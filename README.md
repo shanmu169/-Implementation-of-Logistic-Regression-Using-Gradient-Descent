@@ -82,6 +82,7 @@ else:
 ```
 
 ## Output:
+<img width="1287" height="198" alt="image" src="https://github.com/user-attachments/assets/f42c475d-d5e6-4d82-811f-a26fea57d84e" />
 
 
 ## Result:
